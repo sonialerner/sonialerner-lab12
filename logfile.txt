@@ -1,0 +1,42 @@
+*   commit d462eb1630b36a4fc5fb4c909de359e9f7ad172a (HEAD -> main)
+|\  Merge: e9d9487 c366e7f
+| | Author: Sonia Lerner <sonialerner05@gmail.com>
+| | Date:   Sun Nov 9 23:34:56 2025 -0500
+| | 
+| |     Merge branch 'iss53'
+| | 
+| * commit c366e7f988ff9329426a18f76c1c2d20ad11435e (iss53)
+| | Author: Sonia Lerner <sonialerner05@gmail.com>
+| | Date:   Sun Nov 9 23:31:23 2025 -0500
+| | 
+| |     Finish the new footer [issue 53]
+| | 
+| * commit a82765634c35dca6f9ae73bb30f67f3bef0ae263
+| | Author: Sonia Lerner <sonialerner05@gmail.com>
+| | Date:   Sun Nov 9 23:28:06 2025 -0500
+| | 
+| |     Create new footer [issue 53]
+| | 
+* | commit e9d948799da486125eb5686c6976e1cafabef197
+|/  Author: Sonia Lerner <sonialerner05@gmail.com>
+|   Date:   Sun Nov 9 23:29:32 2025 -0500
+|   
+|       Fix broken email address
+| 
+* commit 64c29db0e00352da25d1f50fe0e1a01f1295184d
+| Author: Sonia Lerner <sonialerner05@gmail.com>
+| Date:   Sun Nov 9 23:25:38 2025 -0500
+| 
+|     Make other changes
+|   
+| * commit 79df21705ba8cc7dda7a1aad2cd5cbe0b80b2735 (testing)
+|/  Author: Sonia Lerner <sonialerner05@gmail.com>
+|   Date:   Sun Nov 9 23:24:44 2025 -0500
+|   
+|       Make a change
+| 
+* commit 9e284155e0ded397c6a49fb34b6452ef2c21410d
+  Author: Sonia Lerner <sonialerner05@gmail.com>
+  Date:   Sun Nov 9 23:22:05 2025 -0500
+  
+      Initial commit
